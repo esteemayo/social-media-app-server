@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "600efc57ba632012f499c893",
+    "username": "user",
+    "email": "user@example.com",
+    "password": "$2a$12$O0Aes/ocZGNhL1V1jD6taOJy2ywGs7Ag1vxx73Sz8c7icaTdEW5SC",
+    "createdAt": "2021-01-25T17:13:59.676Z"
+  },
+  {
+    "_id": "600f4f52ba632012f499c895",
+    "username": "jdoe",
+    "email": "jdoe@example.com",
+    "password": "$2a$12$gzIuQTRdM3NKGwjYHqrLn.k27HqDRc5rN7xfpzoXbCPzkY43RfQUi",
+    "createdAt": "2021-01-25T23:08:02.623Z"
+  },
+  {
+    "_id": "600f55418f45626e00f3a1ae",
+    "username": "mdoe",
+    "email": "mdoe@example.com",
+    "password": "$2a$12$uxTOXC9e1xgBW2AzYC4GWue.75nrrGqqeXvpcKVtOH7TioCrtC/HO",
+    "createdAt": "2021-01-25T23:33:21.109Z"
+  },
+  {
+    "_id": "600f5bb83b727203d8d2a61f",
+    "username": "loulou",
+    "email": "loulou@example.com",
+    "password": "$2a$12$QBZEXkPzqV3CxG5s9Russe3blhEOTWCFREa.8GqLGK2P1Y0Ps3mLi",
+    "createdAt": "2021-01-26T00:00:56.839Z"
+  },
+  {
+    "_id": "600f5bfac74c1a3aa04f0180",
+    "username": "chris",
+    "email": "chris@example.com",
+    "password": "$2a$12$wJ5H3rEZtADt9T3hc1gkD.dFyGDAxzsTwafPFoqI5cqzKf53g5HBO",
+    "createdAt": "2021-01-26T00:02:02.288Z"
+  },
+  {
+    "_id": "601209842ec84545301a9cac",
+    "username": "annie",
+    "email": "annie@example.com",
+    "password": "$2a$12$hXmKePmYbgOkEQ2KhfbXheintYlx/KvROYSpwaKCGcFsWSCiP9tSe",
+    "createdAt": "2021-01-28T00:47:00.350Z"
+  },
+  {
+    "_id": "6012115f2ec84545301a9cad",
+    "username": "jennie",
+    "email": "jennifer@example.com",
+    "password": "$2a$12$gmbOWMjSspVIwMQ5DAmlYej/QcxzxpIWpK7c5fGzhs0Fvg1bqPnD.",
+    "createdAt": "2021-01-28T01:20:31.368Z"
+  },
+  {
+    "_id": "6012127f2ec84545301a9cae",
+    "username": "esteem_ayo",
+    "email": "esteemdesign19@gmail.com",
+    "password": "$2a$12$l1.OwXBqMNuT0XRGBxULE.rUy3Ovj36K4/bbFk1nlc9XcHHDaS7G.",
+    "createdAt": "2021-01-28T01:25:19.021Z"
+  },
+  {
+    "_id": "60141f2c2ec84545301a9cb3",
+    "username": "kate",
+    "email": "kate@example.com",
+    "password": "$2a$12$AFCN.rfZ3BP37oLBfrYae.l0OuFgf6T03uPjm21975AfkVIksWoWq",
+    "createdAt": "2021-01-29T14:43:56.349Z"
+  },
+  {
+    "_id": "6020595d72f39e040458b3b5",
+    "username": "billz",
+    "email": "bill@example.com",
+    "password": "$2a$12$q..mLKDiaRNwOkc5Lsok9uXWIvoIm9mym1M.FoEm7XJxE.PSCFydi",
+    "createdAt": "2021-02-07T21:19:25.070Z"
+  },
+  {
+    "_id": "6020599c72f39e040458b3b8",
+    "username": "leo",
+    "email": "leo@example.com",
+    "password": "$2a$12$nXMcNuxHseLusbqnD35XLOpZDc5ZXyT6WVcE827aUDcvJf04FbirW",
+    "createdAt": "2021-02-07T21:20:28.414Z"
+  }
+]

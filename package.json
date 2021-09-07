@@ -1,0 +1,24 @@
+{
+  "name": "Social-Media-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js --ignore client/",
+    "sample": "node ./dev-data/data/import-dev-data --import",
+    "blowitallaway": "node ./dev-data/data/import-dev-data --delete"
+  },
+  "keywords": [],
+  "author": "Emmanuel Adebayo",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.4.0",
+    "graphql-tag": "^2.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.13"
+  }
+}
